@@ -1,19 +1,4 @@
-# Go binaries
-*.exe
-*.test
-
-# IDE
 .idea/
-.vscode/
 
-# Backups
 backup/
 *.json
-
-# Large files
-*.pdf
-*.zip
-*.tar.gz
-
-# OS
-.DS_Store
